@@ -1,0 +1,9 @@
+# Scripts générés depuis src/snippets/ (racine uniquement)
+*.sh
+!src/**/*.sh
+
+# Build
+release/
+
+# macOS
+.DS_Store
